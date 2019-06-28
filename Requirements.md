@@ -8,12 +8,11 @@
 ## Project Scope
 
 - Shall be an intelligent virtual assistance, which has abilities to drive meaningful One on One conversations, carry out business transactions and solve customer problems. 
+	- Shall be able to learn from its conversations about the individual customer, and overall as conversational AI. 
+	- Shall work with fulfilment layer and carry out business transactions.
+	- Shall showcase learning from past conversations and following the user journey across touch points: If user starts interacting on mobile app and then carries the conversation on Alexa, user should not repeat itself.
 - Shall apply a ML algorithm to identify and learn new details about the user – likes and dislikes, history of interacting with the brand, social profile. 
-- Shall be channel-agonistic and should be able to integrate with any device/channel with minimum effort. 
-- Shall be able to learn from its conversations about the individual customer, and overall as conversational AI. 
-- Shall integrate with at least 3 channels (e.g. Mobile App, Website, Alexa) 
-- Shall showcase learning from past conversations and following the user journey across touch points: If user starts interacting on mobile app and then carries the conversation on Alexa, user should not repeat itself. 
-- Shall work with fulfilment layer and carry out business transactions.
+- Shall be channel-agonistic and should be able to integrate with any device/channel  (e.g. Mobile App, Website, Alexa) with minimum effort.
 
 
 # Product Description
