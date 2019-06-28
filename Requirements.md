@@ -28,13 +28,13 @@
 
 - User will be able to create a new account/guest. 
 - User will be able ask VA questions about the weather, nearby restaurants, and order transportation. 
-- The VA will “remember” user preferences via access to an account database.
+- The VA will “remember” user preferences via access to an account database/file store.
 
-### 2. Web-scraping Google Map results 
+### 2. Using Keywords from Yelp Client-Facing API
 
 {insert}
 
-### 3. Machine Learning algorithm
+### 3. Machine Learning Algorithm
 
 {insert}
 
