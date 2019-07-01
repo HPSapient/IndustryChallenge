@@ -44,24 +44,6 @@
 - Accessibility 
 	- Channel-agnostic 
 	- Voice and visual access 
-- Capacity 
-- Efficiency 
-- Effectiveness 
-- Interoperability 
-- Maintainability 
-- Privacy 
-- Portability 
-- Quality 
-- Reliability 
-- Resilience 
-- Response time 
-- Robustness 
-- Scalability 
-- Security 
-- Stability 
-- Supportability 
-- Testability
-
 
 
 # User Experience
