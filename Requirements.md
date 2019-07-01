@@ -32,11 +32,11 @@
 
 ### 2. Using Keywords from Yelp Client-Facing API
 
-{insert}
+- System will take keywords from the Yelp pages of companies the user has visited and from companies in their current location.
 
-### 3. Machine Learning Algorithm
+### 3. Machine-Learning Algorithm
 
-{insert}
+- System will compare the visited and non-visited keywords to determine recommendations.
 
 
 ## Non-Functional Requirements
@@ -44,14 +44,10 @@
 - Accessibility 
 	- Channel-agnostic 
 	- Voice and visual access 
-- Capacity, current and forecast 
-- Compliance 
-- Documentation 
-- Disaster recovery 
+- Capacity
+	- 
 - Efficiency 
 - Effectiveness 
-- Extensibility 
-- Fault tolerance 
 - Interoperability 
 - Maintainability 
 - Privacy 
@@ -72,11 +68,16 @@
 # User Experience
 
 - User: Customer of the brand 
-- Frequency of use: Varied 
-- Subset of Product Functions: All 
-- Technical Expertise: None needed 
+- Frequency of use: Varied, may be most often before/during certain events such as:
+	- Family vacations
+	- Business trips
+	- High school students viewing colleges
 - Security or Privilege Levels: Only access personal account information 
-- Educational Level or Experience: Must be comfortable using existing platforms and services (I.e. navigating the internet, downloading and navigating a mobile app, setting up and using Virtual Assistants such as Amazon Alexa, creating an account and adding personal information) 
+- Educational Level or Experience: Must be comfortable using existing platforms and services, including the following: 
+	- Navigating the internet
+	- Downloading and navigating a mobile app
+	- Setting up and using Virtual Assistants such as Amazon Alexa
+	- Creating an account and adding personal information
 
 
 
