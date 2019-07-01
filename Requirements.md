@@ -44,8 +44,7 @@
 - Accessibility 
 	- Channel-agnostic 
 	- Voice and visual access 
-- Capacity
-	- 
+- Capacity 
 - Efficiency 
 - Effectiveness 
 - Interoperability 
@@ -86,3 +85,5 @@
 Industry Challenge – Travel & Hospitality – Project Description https://lion.app.box.com/s/zcbkyk8vppmlmq8o223a43ub28grtqvu/file/469652883053?sb=/details 
 
 Requirements Document Template http://www.se.rit.edu/~emad/teaching/slides/srs_template_sep14.pdf
+
+Yelp Fusion API https://github.com/Yelp/yelp-fusion/blob/master/fusion/python/sample.py
